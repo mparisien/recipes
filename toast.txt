@@ -1,0 +1,7 @@
+Toast
+
+1 slice bread, toasted
+
+First, take the toasted bread. Then, have it.
+
+Note that this recipe does not scale well.
